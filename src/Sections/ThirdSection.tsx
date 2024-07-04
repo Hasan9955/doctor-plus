@@ -4,7 +4,7 @@ import { MdArrowOutward } from "react-icons/md";
 
 const ThirdSection = () => {
     return (
-        <div className="text-[#020043] flex justify-between items-end mb-10">
+        <div className="flex justify-between items-end mt-36 mb-40 ">
            <div className='max-w-md'>
                 <button className="btn btn-outline rounded-full">Who we are</button>
                 <h2 className="text-3xl font-bold my-5"> We Help To Get Solutions </h2>

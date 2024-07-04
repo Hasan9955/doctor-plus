@@ -10,7 +10,7 @@ import third from '../assets/3rd.png'
 
 const SecondSection = () => {
     return (
-        <div className="text-[#020043] mt-10 flex flex-col lg:flex-row gap-5 justify-between items-end mb-10">
+        <div className="text-[#020043] flex flex-col lg:flex-row gap-5 justify-between items-end my-20">
             <FirstCard
                 img={circle}
                 title="90%"
